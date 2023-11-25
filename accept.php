@@ -1,0 +1,1 @@
+echo '<script>alert("request has been accepted");</script>';
